@@ -26,7 +26,7 @@ fill(#FFFFFF);
 ellipse(245,210,15,15);
 
 stroke(0);
-arc(250,265,200,200,0,PI,OPEN);
+arc(250,265,200,200,0,PI,OPEN); 
 
 line(250,240,250,366);
 
